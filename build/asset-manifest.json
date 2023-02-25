@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sudarsan2060/cryptocurrency-search.git/static/css/main.a10f71d4.css",
+    "main.js": "/sudarsan2060/cryptocurrency-search.git/static/js/main.873905bb.js",
+    "index.html": "/sudarsan2060/cryptocurrency-search.git/index.html",
+    "main.a10f71d4.css.map": "/sudarsan2060/cryptocurrency-search.git/static/css/main.a10f71d4.css.map",
+    "main.873905bb.js.map": "/sudarsan2060/cryptocurrency-search.git/static/js/main.873905bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10f71d4.css",
+    "static/js/main.873905bb.js"
+  ]
+}
